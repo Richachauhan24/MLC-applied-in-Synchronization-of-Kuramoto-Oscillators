@@ -14,7 +14,8 @@ A = adjacency(G,'weighted');
 A = full(A); %% weighted adjacency matrix
 
 
-%% Network
+%%  Network for weighted network of 12 nodes of Kuramoto oscillators with Kuramoto equation solutions showing simulations of the network.
+
 %N = 12; %% no. of nodes
 %A=[ones(N/2) ones(N/2);ones(N/2) ones(N/2)] - eye(N); %% weighted adjacency matrix
 %G = digraph(A); %% directed strongly connected graph
