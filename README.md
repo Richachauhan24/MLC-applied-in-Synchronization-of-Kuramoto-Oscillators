@@ -1,1 +1,2 @@
-# MLC_Applied_in_Synchronization_of_Kuramoto_oscillators
+# Machine Learning Control applied in Synchronization of Kuramoto Oscillators
+
