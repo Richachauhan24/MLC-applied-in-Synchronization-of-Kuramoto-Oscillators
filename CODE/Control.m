@@ -13,7 +13,8 @@ G = digraph(s,t,weights,names); %% directed strongly connected graph
 A = adjacency(G,'weighted');
 A = full(A); %% weighted adjacency matrix
 
-%% Network
+%% Network for weighted network of 12 nodes of Kuramoto oscillators with Kuramoto equation solutions showing simulations of the network having control input to ensure the synchronization of desynchronized oscillators.
+
 %N = 12; %% no. of nodes
 %A=[ones(N/2) ones(N/2);ones(N/2) ones(N/2)] - eye(N); %% weighted adjacency matrix
 %G = digraph(A); %% directed strongly connected graph
